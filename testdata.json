@@ -1,0 +1,25 @@
+[
+    {
+        "id": "1",
+        "username": "vamshiballa1@gmail.com",
+        "password": "admin@123",
+        "name": "vamshi",
+        "interests": ["Java", "Selenium", "Cypress", "Playwright", "WDIO", "Python", "Jenkins"],
+        "gender": ["Male", "Female"],
+        "address": {
+            "area": "Uppal",
+            "city": "Hyderabad",
+            "pincode": "500069"
+        }
+    },
+    {
+        "id": "2",
+        "username": "vamshiballa2@gmail.com",
+        "password": "admin@123"
+    },
+    {
+        "id": "3",
+        "username": "vamshiballa3@gmail.com",
+        "password": "admin@123"
+    }
+]
